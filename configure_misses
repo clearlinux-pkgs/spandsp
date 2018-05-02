@@ -1,0 +1,46 @@
+Configure miss: socket.h usability
+Configure miss: socket.h presence
+Configure miss: socket.h
+Configure miss: sndfile.h usability
+Configure miss: sndfile.h presence
+Configure miss: sndfile.h
+Configure miss: fftw3.h usability
+Configure miss: fftw3.h presence
+Configure miss: fftw3.h
+Configure miss: fftw.h usability
+Configure miss: fftw.h presence
+Configure miss: fftw.h
+Configure miss: X11/X.h usability
+Configure miss: X11/X.h presence
+Configure miss: X11/X.h
+Configure miss: libxml/xmlmemory.h... checking libxml/xmlmemory.h usability
+Configure miss: libxml/xmlmemory.h presence
+Configure miss: libxml/xmlmemory.h
+Configure miss: libxml/parser.h usability
+Configure miss: libxml/parser.h presence
+Configure miss: libxml/parser.h
+Configure miss: libxml/xinclude.h usability
+Configure miss: libxml/xinclude.h presence
+Configure miss: libxml/xinclude.h
+Configure miss: FL/Fl.H usability
+Configure miss: FL/Fl.H presence
+Configure miss: FL/Fl.H
+Configure miss: FL/Fl_Overlay_Window.H usability
+Configure miss: FL/Fl_Overlay_Window.H presence
+Configure miss: FL/Fl_Overlay_Window.H
+Configure miss: FL/Fl_Light_Button.H usability
+Configure miss: FL/Fl_Light_Button.H presence
+Configure miss: FL/Fl_Light_Button.H
+Configure miss: FL/fl_draw.H usability
+Configure miss: FL/fl_draw.H presence
+Configure miss: FL/fl_draw.H
+Configure miss: FL/Fl_Cartesian.H usability
+Configure miss: FL/Fl_Cartesian.H presence
+Configure miss: FL/Fl_Cartesian.H
+Configure miss: FL/Fl_Audio_Meter.H usability
+Configure miss: FL/Fl_Audio_Meter.H presence
+Configure miss: FL/Fl_Audio_Meter.H
+Configure miss: /usr/X11R6/lib64
+Configure miss: /usr/X11R6/lib
+Configure miss: if x86_64-generic-linux-gnu is fixed point only
+Configure miss: if x86_64-generic-linux-gnu fails on misaligned memory access
