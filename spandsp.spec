@@ -4,7 +4,7 @@
 #
 Name     : spandsp
 Version  : 0.0.6
-Release  : 2
+Release  : 3
 URL      : https://www.soft-switch.org/downloads/spandsp/spandsp-0.0.6.tar.gz
 Source0  : https://www.soft-switch.org/downloads/spandsp/spandsp-0.0.6.tar.gz
 Summary  : A DSP library for telephony.
